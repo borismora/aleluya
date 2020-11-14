@@ -1,4 +1,4 @@
-<h1>app.js</h1>
+<h1>Sitio web para arriendo de camiones y otros vehículos</h1>
 
 El archivo \resources\assets\js\app.js  es el nucleo de Vue y es el que maneja las rutas.
 
